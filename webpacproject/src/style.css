@@ -1,0 +1,42 @@
+*{
+    font-family:sans-serif;
+    box-sizing:border-box;
+}
+header{
+    background-color: magenta;
+}
+
+#content {
+    background-color:burlywood;
+    width:650px;
+    margin:0 auto;
+    border-radius:10px;
+}
+.theheader{
+    color:black;
+    border:5px solid d;
+    height:100px;
+    text-align:center;
+    border-radius:50px;
+    padding-top:20px;
+}
+.newcontainer {
+    text-align:center;
+    color:black;
+    border-radius:50px;
+}
+.newcontainer h3:first-child {
+    border-top:1px solid green;
+    padding:20px 20px 0 20px;
+    margin-bottom:0;
+}
+.newcontainer p:first-child{
+    margin-top:0;
+}
+.hourly{
+    color:green;
+}
+.tfooter{
+    text-align:center;
+    margin:50px 0 50px 0;
+}
